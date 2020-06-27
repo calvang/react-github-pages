@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-github-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-github-pages/static/js/main.355995ea.chunk.js",
+    "main.js.map": "/react-github-pages/static/js/main.355995ea.chunk.js.map",
+    "runtime-main.js": "/react-github-pages/static/js/runtime-main.cdc1f5da.js",
+    "runtime-main.js.map": "/react-github-pages/static/js/runtime-main.cdc1f5da.js.map",
+    "static/css/2.9e5c3921.chunk.css": "/react-github-pages/static/css/2.9e5c3921.chunk.css",
+    "static/js/2.1cdc1da0.chunk.js": "/react-github-pages/static/js/2.1cdc1da0.chunk.js",
+    "static/js/2.1cdc1da0.chunk.js.map": "/react-github-pages/static/js/2.1cdc1da0.chunk.js.map",
+    "index.html": "/react-github-pages/index.html",
+    "precache-manifest.bddc27cf8cb9e0773072f0c663705fc9.js": "/react-github-pages/precache-manifest.bddc27cf8cb9e0773072f0c663705fc9.js",
+    "service-worker.js": "/react-github-pages/service-worker.js",
+    "static/css/2.9e5c3921.chunk.css.map": "/react-github-pages/static/css/2.9e5c3921.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/react-github-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1cdc1da0.chunk.js.LICENSE.txt": "/react-github-pages/static/js/2.1cdc1da0.chunk.js.LICENSE.txt",
+    "static/media/autumn.jpg": "/react-github-pages/static/media/autumn.731a2844.jpg",
+    "static/media/logo.svg": "/react-github-pages/static/media/logo.5d5d9eef.svg",
+    "static/media/mountains.jpg": "/react-github-pages/static/media/mountains.7cc252b5.jpg",
+    "static/media/road.jpg": "/react-github-pages/static/media/road.5359a1c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdc1f5da.js",
+    "static/css/2.9e5c3921.chunk.css",
+    "static/js/2.1cdc1da0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.355995ea.chunk.js"
+  ]
+}
